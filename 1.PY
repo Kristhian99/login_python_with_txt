@@ -18,10 +18,10 @@ def test (lista_login,e,contra):
 
 
 
-list=data("/home/kristen/Documentos/Visual_Projects/Python/list.txt")
+list=data("list.txt")
 while (True):
 
-    opcion=input ("""Introduzce una opcion you motherfacher
+    opcion=input ("""Introduzce una opcion para iniciar
             1) Registrar un nuevo usuario
             2) Ingresar usuario 
             3) Salir 
